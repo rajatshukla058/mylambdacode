@@ -7,3 +7,4 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Lambda!')
     }
 changes
+yes
